@@ -7,7 +7,7 @@ Menu Maker est une interface sur laquelle les restaurateurs peuvent se connecter
 ## Projet
 
 - Qwenta souhaite réaliser un outil en ligne qui permettra à ses clients restaurateurs de publier et de choisir par eux-mêmes la mise en forme de leurs menus, d’où le nom “Menu Maker”.
-- Qwenta fait appel à Webgencia dans un premier temps pour développer les spécications techniques du site et organiser la gestion de projet du développement du site.
+- Qwenta fait appel à Webgencia dans un premier temps pour développer les spécifications techniques du site et organiser la gestion de projet du développement du site.
 - L'outil doit être dynamique.
 
 ## Fonctionnalités principales Menu Maker
